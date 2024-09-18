@@ -1,6 +1,6 @@
 <?php
 
-  $to = "joyaghaddad@gmail.com";
+  $to = "jyhdofficial@gmail.com";
 
   $name = $_POST['name'];
   $subject = $_POST['subject'];
